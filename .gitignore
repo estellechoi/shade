@@ -1,0 +1,6 @@
+/sitemap.xml
+/.htaccess
+/node_modules
+/dist
+/examples/tests
+/.idea
